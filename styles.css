@@ -1,0 +1,35 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/0b/5a/cf/0b5acf7456371e5bf4d8cddd50c73b9e.jpg");
+   }
+
+#title {
+    padding: 10px;
+    text-align: center;
+    font: italic bold 48px/120px Georgia, serif;
+    background-color: #85e6e6;
+    color: darkblue;
+}
+
+h2 {
+    font: italic bold 32px/68px Georgia, serif;
+    color: #ffeae0;
+    text-decoration: underline;
+}
+
+h3.header {
+    color: #42ffa1;
+    text-decoration: underline;
+}
+
+main {
+    text-align: center;
+    font: bold 24px/60px Cambria, serif;
+    color: #ffeae0;
+}
+
+footer {
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(48, 216, 208);
+    color: darkblue
+}
